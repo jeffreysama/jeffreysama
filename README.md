@@ -10,3 +10,7 @@ I say a lot of swearing when confident
    This is me btw
    
 <img width="444" height="346" alt="image" src="https://github.com/user-attachments/assets/bb102872-24fa-461a-9d2c-1f1427894218" />
+
+I don't know what this is but this looks cool
+
+<img height="165" src="https://leetcard.jacoblin.cool/jeffreysama?theme=dark&font=Nunito&hide_border=true"/>
